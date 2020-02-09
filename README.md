@@ -22,7 +22,7 @@ Official Open Source Initiative website : https://opensource.org <br />
 
 Choose an open source license : https://choosealicense.com <br />
 
-**_open source developers_**
+**_open source developers_** <br/>
 Christine Peterson <br/>
 Todd Anderson <br/>
 Larry Augustin <br/>
