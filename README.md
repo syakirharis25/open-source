@@ -23,24 +23,19 @@ Official Open Source Initiative website : https://opensource.org <br />
 Choose an open source license : https://choosealicense.com <br />
 
 **_open source developers_** <br/>
-Christine Peterson <br/>
-Todd Anderson <br/>
-Larry Augustin <br/>
-Jon Hall <br/>
-Sam Ockman <br/>
-Michael Tiemann <br/>
-Eric S. Raymond <br/>
-Linus Torvalds <br/>
-Phil Hughes <br/>
-Richard Stallman <br/>
-Larry Wall <br/>
-Brian Behlendorf <br/>
-Eric Allman <br/>
-Guido van Rossum <br/>
-Michael Tiemann <br/>
-Paul Vixie <br/>
-Jamie Zawinski <br/>
-Eric Raymond <br/>
+Michael Tiemann : https://github.com/MichaelTiemann <br/>
+Linus Torvalds : https://github.com/torvalds <br/>
+Guido van Rossum : https://github.com/gvanrossum <br/>
+Paul Vixie : https://github.com/vixie <br/>
+Jamie Zawinski : https://github.com/yesthatjwz <br/>
+
+**_open source software_** <br/>
+Python programming language : https://www.python.org <br />
+GIMP GNU Image Manipulation Program : https://www.gimp.org <br />
+Inkscape : https://inkscape.org <br />
+Atom text editor : https://atom.io <br />
+Kali Linux : https://www.kali.org <br />
+Parrot OS : https://parrotlinux.org <br />
 
 <a name="sourcecode"></a>
 ## 3. Open source code.
