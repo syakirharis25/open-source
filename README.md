@@ -9,7 +9,7 @@ My works related to open source platform.
 
 <a name="introduction"></a>
 ## 1. Introduction.
-<img src="open-source.png" height="150"> 
+<img src="open-source.jpg" height="150"> 
 The term "open source", as used to describe software, was first proposed by a group of people in the free software movement who were critical of the political agenda and moral philosophy implied in the term "free software" and sought to reframe the discourse to reflect a more commercially minded position. In addition, the ambiguity of the term "free software" was seen as discouraging business adoption. The group included Christine Peterson, Todd Anderson, Larry Augustin, Jon Hall, Sam Ockman, Michael Tiemann and Eric S. Raymond. Christine Peterson suggested "open source" at a meeting held at Palo Alto, California, in reaction to Netscape's announcement in January 1998 of a source code release for Navigator. Linus Torvalds gave his support the following day, and Phil Hughes backed the term in Linux Journal. Richard Stallman, the founder of the free software movement, initially seemed to adopt the term, but later changed his mind. Netscape released its source code under the Netscape Public License and later under the Mozilla Public License.
 
 Raymond was especially active in the effort to popularize the new term. He made the first public call to the free software community to adopt it in February 1998. Shortly after, he founded The Open Source Initiative in collaboration with Bruce Perens.
@@ -23,24 +23,24 @@ Official Open Source Initiative website : https://opensource.org <br />
 Choose an open source license : https://choosealicense.com <br />
 
 **_open source developers_**
-Christine Peterson
-Todd Anderson
-Larry Augustin
-Jon Hall
-Sam Ockman
-Michael Tiemann
-Eric S. Raymond
-Linus Torvalds
-Phil Hughes
-Richard Stallman
-Larry Wall
-Brian Behlendorf
-Eric Allman
-Guido van Rossum
-Michael Tiemann
-Paul Vixie
-Jamie Zawinski
-Eric Raymond
+Christine Peterson <br/>
+Todd Anderson <br/>
+Larry Augustin <br/>
+Jon Hall <br/>
+Sam Ockman <br/>
+Michael Tiemann <br/>
+Eric S. Raymond <br/>
+Linus Torvalds <br/>
+Phil Hughes <br/>
+Richard Stallman <br/>
+Larry Wall <br/>
+Brian Behlendorf <br/>
+Eric Allman <br/>
+Guido van Rossum <br/>
+Michael Tiemann <br/>
+Paul Vixie <br/>
+Jamie Zawinski <br/>
+Eric Raymond <br/>
 
 <a name="sourcecode"></a>
 ## 3. Open source code.
