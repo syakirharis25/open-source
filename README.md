@@ -6,6 +6,7 @@ My works related to open source platform.
 2. [Official references websites.](#references)
 3. [Open source code.](#sourcecode) 
 4. [GitHub notes.](#github)
+5. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -58,3 +59,14 @@ $ cd open-source/
 $ git remote -v
 $ git status
 ```
+
+<a name="calculation"></a>
+## 5. GitHub repository calculation.
+```
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1             12              0             33
+-------------------------------------------------------------------------------
+```
+Refer to : https://github.com/syakirharis25/cloc
