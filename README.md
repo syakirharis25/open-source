@@ -4,9 +4,10 @@ My works related to open source platform.
 ## Table of Contents
 1. [Introduction.](#introduction)
 2. [Official references websites.](#references)
-3. [Open source code.](#sourcecode) 
-4. [GitHub notes.](#github)
-5. [GitHub repository calculation.](#calculation)
+3. [Open source code.](#sourcecode)
+4. [Open source developers.](#developers)
+5. [GitHub notes.](#github)
+6. [GitHub repository calculation.](#calculation)
 
 <a name="introduction"></a>
 ## 1. Introduction.
@@ -22,13 +23,6 @@ The term gained further visibility through an event organized in April 1998 by t
 Official Open Source Initiative website : https://opensource.org <br />
 
 Choose an open source license : https://choosealicense.com <br />
-
-**_open source developers_** <br/>
-Michael Tiemann : https://github.com/MichaelTiemann <br/>
-Linus Torvalds : https://github.com/torvalds <br/>
-Guido van Rossum : https://github.com/gvanrossum <br/>
-Paul Vixie : https://github.com/vixie <br/>
-Jamie Zawinski : https://github.com/yesthatjwz <br/>
 
 **_open source software_** <br/>
 Python programming language : https://www.python.org <br />
@@ -50,8 +44,16 @@ Open source licenses affect the way people can use, study, modify, and distribut
 
 By design, open source software licenses promote collaboration and sharing because they permit other people to make modifications to source code and incorporate those changes into their own projects. They encourage computer programmers to access, view, and modify open source software whenever they like, as long as they let others do the same when they share their work.
 
+<a name="developers"></a>
+## 4. Open source developers.
+Guido van Rossum : https://github.com/gvanrossum <br/>
+Jamie Zawinski : https://github.com/yesthatjwz <br/>
+Linus Torvalds : https://github.com/torvalds <br/>
+Michael Tiemann : https://github.com/MichaelTiemann <br/>
+Paul Vixie : https://github.com/vixie <br/>
+
 <a name="github"></a>
-## 4. GitHub notes.
+## 5. GitHub notes.
 Clone the current GitHub remote repository contents into local machine.
 ```
 $ git clone https://github.com/syakirharis25/open-source.git
@@ -61,7 +63,7 @@ $ git status
 ```
 
 <a name="calculation"></a>
-## 5. GitHub repository calculation.
+## 6. GitHub repository calculation.
 ```
 -------------------------------------------------------------------------------
 Language                     files          blank        comment           code
